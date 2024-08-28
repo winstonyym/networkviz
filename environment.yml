@@ -1,0 +1,12 @@
+name: networkviz
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - geopandas
+  - pip:
+    - matplotlib
+    - jupyter
+    - pandas
+    - h5py
+    - numpy
