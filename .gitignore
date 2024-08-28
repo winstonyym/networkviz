@@ -1,1 +1,5 @@
 .DS_Store
+
+csvs/
+geojsons/
+utils/__pycache__/
